@@ -1,0 +1,7 @@
+Just a few sample C++ code that I use for reserach. 
+
+I've implemented a dynamic tracking implementation of shortest paths on a time series of point clouds. 
+
+A dynamic programming implementation was used because my graph edge weights need to be recomputed based on different initial conditions. 
+
+In the future, can test with a more traditional BFS or DFS implementation. 
